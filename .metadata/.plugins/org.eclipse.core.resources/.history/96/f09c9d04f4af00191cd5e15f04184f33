@@ -1,0 +1,21 @@
+package listDemo;
+
+import java.util.ArrayList;
+
+public class Iterator {
+
+	public static void main(String[] args) {
+		ArrayList obj1= new ArrayList();
+		obj1.add(5647);
+		obj1.add('M');
+		obj1.add("selenium");
+		obj1.add(23.65);
+		
+		
+		
+	Iterator	obj1.iterator();
+		
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package variable;
+
+public class Variables {
+
+	
+	int x = 45;
+	 static String name = "Tom";
+	public static void main(String[] args) {
+		
+		int y = 40;
+		
+		System.out.println(name);
+
+	}
+
+}
